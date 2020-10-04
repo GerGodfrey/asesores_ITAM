@@ -113,9 +113,9 @@ section{
 
 /* Color del nav */
 nav{
-  background-color: white;
+  background-color: rgba(13, 124, 228, 0.829);
   box-shadow: 0 3px 3px rgba(0,0,0,.5);
-  font-size: 18px;
+  font-size: 16px;
 }
 
 
@@ -130,9 +130,28 @@ nav{
     
 }
 .btn-primary:hover{
-background-color: #a5a5af;
-    
-    
+background-color: #a5a5af;   
+}
+
+hr{
+  border-top: 3px solid #ffffff;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 1.5%;
+}
+
+.col-sm-12{
+  padding: 20px;
+  border-spacing: 50px 0;
+  border-collapse: separate;
+  padding-bottom: 35px;
+  padding-top: 35px;
+}
+
+section{
+  font-family: 'Raleway';
+  padding: 20px 0 0;
+  padding-top: 5%;
 }
 
 

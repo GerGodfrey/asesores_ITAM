@@ -9,11 +9,7 @@
   background-image: linear-gradient(rgba(54, 139, 219, 0.5), rgba(13, 124, 228, 0.767)), url(../../img/books.jpg);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover; /*cover*/
-  /* background-attachment: fixed; 
-  position: relative;
-  overflow: hidden;
-  box-shadow: 1px 1px .9px grey; */
+  background-size: cover;
   height: 100%;
   width: 100%;
 }
@@ -33,25 +29,3 @@
 .header h6{
     font-size: 24 px;
 }
-/*
-@media only screen and (max-width: 600px){
-  .header{
-    font-family: 'Raleway';
-    background-image:linear-gradient(rgba(54, 139, 219, 0.5), rgba(13, 124, 228, 0.767)), url(../../img/court2jpg.jpg);;
-    background-repeat: repeat;
-    height: auto;
-    width: 100%;
-  }
-}
-
-@media only screen and (max-width: 768px){
-  .header{
-    font-family: 'Raleway';
-    background-image: linear-gradient(rgba(54, 139, 219, 0.5), rgba(13, 124, 228, 0.767)), url(../../img/court768.jpg);
-    background-repeat: repeat;
-    height: auto;
-    width: 100%;
-  }
-}
-
-*/
