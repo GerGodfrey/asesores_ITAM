@@ -48,6 +48,8 @@
     flex-direction: column;
     align-items: center;
     align-self: flex-start;
+
+    transition: all .4s;
 }
 
 .asesores .product-item img{
